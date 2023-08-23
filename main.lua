@@ -1,4 +1,4 @@
-local mocegui = require "mocegui"
+mocegui = require "mocegui"
 local republica = require("republicanova")
 local exit = false
 local options = require('data.config')
